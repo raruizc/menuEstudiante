@@ -1,0 +1,23 @@
+C:\Users\Ricardo\source\repos\Tercer Trimestre\Estudiantes\Estudiantes\bin\Debug\Estudiantes.exe.config
+C:\Users\Ricardo\source\repos\Tercer Trimestre\Estudiantes\Estudiantes\bin\Debug\Estudiantes.exe
+C:\Users\Ricardo\source\repos\Tercer Trimestre\Estudiantes\Estudiantes\bin\Debug\Estudiantes.pdb
+C:\Users\Ricardo\source\repos\Tercer Trimestre\Estudiantes\Estudiantes\obj\Debug\Estudiantes.csprojAssemblyReference.cache
+C:\Users\Ricardo\source\repos\Tercer Trimestre\Estudiantes\Estudiantes\obj\Debug\Estudiantes.Form1.resources
+C:\Users\Ricardo\source\repos\Tercer Trimestre\Estudiantes\Estudiantes\obj\Debug\Estudiantes.Properties.Resources.resources
+C:\Users\Ricardo\source\repos\Tercer Trimestre\Estudiantes\Estudiantes\obj\Debug\Estudiantes.csproj.GenerateResource.cache
+C:\Users\Ricardo\source\repos\Tercer Trimestre\Estudiantes\Estudiantes\obj\Debug\Estudiantes.csproj.CoreCompileInputs.cache
+C:\Users\Ricardo\source\repos\Tercer Trimestre\Estudiantes\Estudiantes\obj\Debug\Estudiantes.exe
+C:\Users\Ricardo\source\repos\Tercer Trimestre\Estudiantes\Estudiantes\obj\Debug\Estudiantes.pdb
+C:\Users\Ricardo\Desktop\Cursos\Sena\Análisis y Desarrollo de Sistemas de Información\3_Tercer Trimestre\Programación_Avanzada\Estudiantes\Estudiantes\Estudiantes\bin\Debug\Estudiantes.exe.config
+C:\Users\Ricardo\Desktop\Cursos\Sena\Análisis y Desarrollo de Sistemas de Información\3_Tercer Trimestre\Programación_Avanzada\Estudiantes\Estudiantes\Estudiantes\bin\Debug\Estudiantes.exe
+C:\Users\Ricardo\Desktop\Cursos\Sena\Análisis y Desarrollo de Sistemas de Información\3_Tercer Trimestre\Programación_Avanzada\Estudiantes\Estudiantes\Estudiantes\bin\Debug\Estudiantes.pdb
+C:\Users\Ricardo\Desktop\Cursos\Sena\Análisis y Desarrollo de Sistemas de Información\3_Tercer Trimestre\Programación_Avanzada\Estudiantes\Estudiantes\Estudiantes\obj\Debug\Estudiantes.csprojAssemblyReference.cache
+C:\Users\Ricardo\Desktop\Cursos\Sena\Análisis y Desarrollo de Sistemas de Información\3_Tercer Trimestre\Programación_Avanzada\Estudiantes\Estudiantes\Estudiantes\obj\Debug\Estudiantes.Form1.resources
+C:\Users\Ricardo\Desktop\Cursos\Sena\Análisis y Desarrollo de Sistemas de Información\3_Tercer Trimestre\Programación_Avanzada\Estudiantes\Estudiantes\Estudiantes\obj\Debug\Estudiantes.Properties.Resources.resources
+C:\Users\Ricardo\Desktop\Cursos\Sena\Análisis y Desarrollo de Sistemas de Información\3_Tercer Trimestre\Programación_Avanzada\Estudiantes\Estudiantes\Estudiantes\obj\Debug\Estudiantes.csproj.GenerateResource.cache
+C:\Users\Ricardo\Desktop\Cursos\Sena\Análisis y Desarrollo de Sistemas de Información\3_Tercer Trimestre\Programación_Avanzada\Estudiantes\Estudiantes\Estudiantes\obj\Debug\Estudiantes.csproj.CoreCompileInputs.cache
+C:\Users\Ricardo\Desktop\Cursos\Sena\Análisis y Desarrollo de Sistemas de Información\3_Tercer Trimestre\Programación_Avanzada\Estudiantes\Estudiantes\Estudiantes\obj\Debug\Estudiantes.exe
+C:\Users\Ricardo\Desktop\Cursos\Sena\Análisis y Desarrollo de Sistemas de Información\3_Tercer Trimestre\Programación_Avanzada\Estudiantes\Estudiantes\Estudiantes\obj\Debug\Estudiantes.pdb
+C:\Users\Ricardo\Desktop\Cursos\Sena\Análisis y Desarrollo de Sistemas de Información\3_Tercer Trimestre\Programación_Avanzada\Estudiantes\Estudiantes\Estudiantes\obj\Debug\Estudiantes.Menu.resources
+C:\Users\Ricardo\Desktop\Cursos\Sena\Análisis y Desarrollo de Sistemas de Información\3_Tercer Trimestre\Programación_Avanzada\Estudiantes\Estudiantes\Estudiantes\obj\Debug\Estudiantes.Papeleria.resources
+C:\Users\Ricardo\Desktop\Cursos\Sena\Análisis y Desarrollo de Sistemas de Información\3_Tercer Trimestre\Programación_Avanzada\Estudiantes\Estudiantes\Estudiantes\obj\Debug\Estudiantes.AboutBox1.resources
